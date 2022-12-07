@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "console.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adminazhar/nodejs-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adminazhar/nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/adminazhar/nodejs-learning#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
